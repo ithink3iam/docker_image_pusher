@@ -1,2 +1,2 @@
 arxivvanity/engrafo
-savatar101/omniparse
+savatar101/omniparse:0.1
